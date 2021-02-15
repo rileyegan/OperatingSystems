@@ -1,0 +1,11 @@
+In your own words, write a short description (3 - 4 sentences) of one operating system function:
+Commit those changes to the Master branch.
+
+Edit the file to add another short description (3 - 4 sentences) of another operating system function, 
+commit those changes to the Master branch, with a meaningful note:
+
+Edit the file to add another short description (3 - 4 sentences) of another operating system function, 
+commit those changes to the Master branch, with a meaningful note
+
+Copy and paste the final version to LastnameOS created in Part 1 (Identify where the GitHub material starts in your LastnameOS document)
+Click on History and copy and paste what you see to LastnameOS created in Part 1
