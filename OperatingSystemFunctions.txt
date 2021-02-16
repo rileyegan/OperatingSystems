@@ -1,15 +1,14 @@
-In your own words, write a short description (3 - 4 sentences) of one operating system function:
-Commit those changes to the Master branch.
+1.) In your own words, write a short description (3 - 4 sentences) of one operating system function, commit those changes to the Master branch:
 
-1.) The operating system manages the computer's resources. This includes memory, printers and central processing units. A lot of what the operating system does takes place behind the metaphorical scenes, unbeknownst to the user.
+The operating system manages the computer's resources. This includes memory, printers and central processing units. A lot of what the operating system does takes place behind the metaphorical scenes, unbeknownst to the user.
 
-Edit the file to add another short description (3 - 4 sentences) of another operating system function, 
-commit those changes to the Master branch, with a meaningful note:
+2.) Edit the file to add another short description (3 - 4 sentences) of another operating system function,  commit those changes to the Master branch, with a meaningful note:
 
-2.) The operating system also provides the user interface. Each one provides a unique experience. Some distinctions include the usability and ease of the mac OS and the business-oriented, grainular Windows that is characterized by it's Start button.
+The operating system also provides the user interface. Each one provides a unique experience. Some distinctions include the usability and ease of the mac OS and the business-oriented, grainular Windows that is characterized by it's Start button.
 
-Edit the file to add another short description (3 - 4 sentences) of another operating system function, 
-commit those changes to the Master branch, with a meaningful note:
+3.) Edit the file to add another short description (3 - 4 sentences) of another operating system function, commit those changes to the Master branch, with a meaningful note:
+
+Finally, another action that the operating system can take is that it provides services for applications software. The OS runs the software and, coupled with the user interface, provides the user the means to understand and easily use that applications. For example, the game developer will create their application to run on a certain operation system and the UI will be adapted based off of that.
 
 Copy and paste the final version to LastnameOS created in Part 1 (Identify where the GitHub material starts in your LastnameOS document)
 Click on History and copy and paste what you see to LastnameOS created in Part 1
