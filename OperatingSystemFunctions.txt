@@ -1,6 +1,8 @@
 In your own words, write a short description (3 - 4 sentences) of one operating system function:
 Commit those changes to the Master branch.
 
+The operating system manages the computer's resources. This includes memory, printers and central processing units. A lot of what the operating system does takes place behind the metaphorical scenes, unbeknownst to the user.
+
 Edit the file to add another short description (3 - 4 sentences) of another operating system function, 
 commit those changes to the Master branch, with a meaningful note:
 
